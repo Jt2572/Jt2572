@@ -1,11 +1,10 @@
-<div id="header" align="center">
-  
-  <img src="https://res.cloudinary.com/jt2572/image/upload/v1661926722/devops_kilagp.gif" width="500"/>
-  
-</div>
 
 ### Hi there 👋
 
+<div id="header" align="center">  
+  <img src="https://res.cloudinary.com/jt2572/image/upload/v1661930922/fullstackdeveloper_qfwbde.gif" width="1005"/>  
+</div>
+<br/>
 I'm Jairo Torres, from Colombia, and I would like to share with you my recently Full Stack Web Developer graduation at Henry Bootcamp a place where I could enforce my programming skills and meet fantastic people as well 🙌 
 <br/>
 Recently I  worked in an international graphic arts company for a couple of years as a Graphic Designer.  I like technology,  video games, and music.  I'm always trying to learn new programming techniques. 
