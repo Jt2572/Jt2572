@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Jairo Torres, and I would like to share with everybody my recently Full Stack Web Developer graduation at Henry Bootcamp, a fantastic place where I could enforce my programming skills.
 <!--
 **Jt2572/Jt2572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
