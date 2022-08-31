@@ -29,7 +29,7 @@ Recently I  worked in an international graphic arts company for a couple of year
 
 - <h3 align="left">Projects:</h3>
 
-### Proyecto Final Henry BootCamp 
+### Final Project at Henry Bootcamp
 
 <div width="50" height="100"; align="Left"> Ecommerce carried out with an excellent work team as a Final Project at Bootcamp Henry. It offers to the user the possibility of buying books online or accessing ebooks to read online, as long as they are registered, it also allows searching through different types of filters, as well as adding to Favorites, and making Reviews, among other features. Technologies such as React, Redux Toolkit, Node Express, Postgres, Sequelize, and Tailwind, as well as resources such as Figma, Trello, Illustrator, and Stripe, among others, were used to carry out this project.</div> 
 <br>
