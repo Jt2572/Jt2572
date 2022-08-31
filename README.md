@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Jairo Torres, and I would like to share with you my recently Full Stack Web Developer graduation at Henry Bootcamp, a place where I could enforce my programming skills and meet good wonderful people as well. 🙌
-
-<h3 align="center">A passionate full stack web developer from Colombia</h3>
+I'm Jairo Torres, from Colombia, and I would like to share with you my recently Full Stack Web Developer graduation at Henry Bootcamp a place where I could enforce my programming skills and meet fantastic people as well 🙌 
+<br/>
+Recently I  worked in an international graphic arts company for a couple of years as a Graphic Designer.  I like technology,  video games, and music.  I'm always trying to learn new programming techniques. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +16,7 @@ I'm Jairo Torres, and I would like to share with you my recently Full Stack Web 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jt2572&show_icons=true&locale=en" alt="jt2572" /></p>
 
+<h3 align="left">Projects:</h3>
 
 
 <!--
