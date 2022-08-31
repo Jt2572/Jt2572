@@ -31,7 +31,7 @@ Recently I  worked in an international graphic arts company for a couple of year
 
 ### Proyecto Final Henry BootCamp 
 
-<div width="50" height="100"; align="Left"> Ecommerce realizado con  un excelente equipo de trabajo como Proyecto Final en el Bootcamp Henry.  Ofrece al usuario la posibilidad de comprar libros en línea o acceder a ebooks para leer online, siempre y cuando se encuentre registrado, además permite realizar búsquedas mediante diferentes tipos de filtrados, así como agregar a favoritos, realizar reviews, entre otras funcionalidades.  Para la realización de este proyecto se usaron tecnologías como React, Redux Toolkit, Node Express, Postgres, Sequelize, Tailwind, igualmente recursos como Figma, Trello, Ilustrador, Stripe, entre otros.</div> 
+<div width="50" height="100"; align="Left"> Ecommerce carried out with an excellent work team as a Final Project at Bootcamp Henry. It offers to the user the possibility of buying books online or accessing ebooks to read online, as long as they are registered, it also allows searching through different types of filters, as well as adding to Favorites, and making Reviews, among other features. Technologies such as React, Redux Toolkit, Node Express, Postgres, Sequelize, and Tailwind, as well as resources such as Figma, Trello, Illustrator, and Stripe, among others, were used to carry out this project.</div> 
 <br>
 <div align="center">    
   <p> <img src="https://res.cloudinary.com/jt2572/image/upload/v1661942854/eK-landing_nxplda.png" width="500"/></p>
