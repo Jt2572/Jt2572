@@ -29,7 +29,16 @@ Recently I  worked in an international graphic arts company for a couple of year
 
 - <h3 align="left">Projects:</h3>
 
- 
+### Proyecto Final Henry BootCamp 
+<br/>
+<div id="header" width="50" height="100"; align="Left" > Realizado empleando tecnologías como React, Redux Toolkit, Node Express, Postgres, Sequelize, tailwind y algunos otros recursos. </div> 
+<div id="header" align="center">  
+  
+  <img src="https://res.cloudinary.com/jt2572/image/upload/v1661942854/eK-landing_nxplda.png"  align="left" width="400"/>  
+</div>
+
+
+      
 <!--
 **Jt2572/Jt2572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
