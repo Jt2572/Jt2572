@@ -15,7 +15,7 @@ Recently I  worked in an international graphic arts company for a couple of year
 
 <a href="https://linkedin.com/in/jairo torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jairo torres" height="30" width="40" /></a>
 <a href="https://instagram.com/jairotorres02572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jairotorres02572" height="30" width="40" /></a>
-<a href="https://fb.com/jairo torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jairo torres" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100085178591998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jairo torres" height="30" width="40" /></a>
 <a href="https://twitter.com/@jairotorres2572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jairotorres2572" height="30" width="40" /></a>
 </p>
 
