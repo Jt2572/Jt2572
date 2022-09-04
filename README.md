@@ -5,9 +5,9 @@
   <img src="https://res.cloudinary.com/jt2572/image/upload/v1661930922/fullstackdeveloper_qfwbde.gif" width="1005"/>  
 </div>
 <br/>
-I'm Jairo Torres, from Colombia, and I would like to share with you my Full Stack Web Developer graduation at Henry Bootcamp a place where I could enforce my programming skills and meet fantastic people as well 🙌 
+I'm Jairo Torres, from Colombia, and I would like to share with you my Full Stack Web Developer graduation at Henry Bootcamp, a place where I could enforce my programming skills and meet fantastic people as well 🙌
 <br/>
-Recently I  worked in an international graphic arts company for a couple of years as a Graphic Designer.  I like technology,  video games, and music.  I'm always trying to learn new programming techniques. 
+Recently I worked in an international graphic arts company for a couple of years as a Graphic Designer. I like technology, video games, and music. I'm always trying to learn new programming techniques.
 
 - <h3 align="left">Connect with me:</h3>
 
