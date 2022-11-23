@@ -46,7 +46,7 @@ React, Redux, Node, Express, PostgreSQL, and Sequelize were technologies used fo
 </div>
 
 ### Personal Project
-<div id="header" width="50" height="100"; align="Left" ></div> 
+<div id="header" width="50" height="100"; align="Left" >This personal project consists of a Landing Page built using React and Sass for the styling. The main goal of this project was to implement a responsive design in a web project using Sass Pre-processor.</div> 
 <br>
 <div id="header" align="center">    
   <img src="https://res.cloudinary.com/jt2572/image/upload/v1669173045/Landing_jyjzj0.jpg" width="400"/>  
