@@ -38,7 +38,8 @@ Recently I worked in an international graphic arts company for a couple of years
 </div>
 
 ### Henry Bootcamp PI
-<div id="header" width="50" height="100"; align="Left" ></div> 
+<div id="header" width="50" height="100"; align="Left" >This project was built as a requirement to get approved at Henry Bootcamp as a Fullstack Web Developer. 
+React, Redux, Node, Express, PostgreSQL, and Sequelize were technologies used for the development.  For styling, I used CSS Modules, and after being approved, I used Tailwind.</div> 
 <br>
 <div id="header" align="center">    
   <img src="https://res.cloudinary.com/jt2572/image/upload/v1669170813/PI-food_ffth6d.jpg" width="400"/>  
