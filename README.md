@@ -45,6 +45,12 @@ React, Redux, Node, Express, PostgreSQL, and Sequelize were technologies used fo
   <img src="https://res.cloudinary.com/jt2572/image/upload/v1669170813/PI-food_ffth6d.jpg" width="400"/>  
 </div>
 
+### Personal Project
+<div id="header" width="50" height="100"; align="Left" ></div> 
+<br>
+<div id="header" align="center">    
+  <img src="https://res.cloudinary.com/jt2572/image/upload/v1669173045/Landing_jyjzj0.jpg" width="400"/>  
+</div>
       
 <!--
 **Jt2572/Jt2572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
