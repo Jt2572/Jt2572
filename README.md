@@ -38,10 +38,10 @@ Recently I worked in an international graphic arts company for a couple of years
 </div>
 
 ### Henry Bootcamp PI
-<div id="header" width="50" height="100"; align="Left" >Ecommerce carried out with an excellent work team as a Final Project at Bootcamp Henry. It offers to the user the possibility of buying books online or accessing ebooks to read online, as long as they are registered, it also allows searching through different types of filters, as well as adding to Favorites, and making Reviews, among other features. Technologies such as React, Redux Toolkit, Node Express, Postgres, Sequelize, and Tailwind, as well as resources such as Figma, Trello, Illustrator, and Stripe, among others, were used to carry out this project.</div> 
+<div id="header" width="50" height="100"; align="Left" ></div> 
 <br>
 <div id="header" align="center">    
-  <img src="https://res.cloudinary.com/jt2572/image/upload/v1661942854/eK-landing_nxplda.png" width="400"/>  
+  <img src="https://res.cloudinary.com/jt2572/image/upload/v1669170813/PI-food_ffth6d.jpg" width="400"/>  
 </div>
 
       
